@@ -22,8 +22,8 @@
 
 <form type="submit" method="POST" action="?/login" class="form flex flex-col m-auto relative">
 	<input
-		type="email"
-		placeholder="Email address"
+		type="text"
+		placeholder="Email/Nickname"
 		name="email"
 		autocomplete=""
 		class={inputStyle}
